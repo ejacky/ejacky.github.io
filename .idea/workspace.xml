@@ -28,16 +28,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="6" selection-start="2224" selection-end="2224" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1440">
+            <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="-2.5" vertical-offset="180" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="17" selection-start="694" selection-end="694" vertical-scroll-proportion="0.6475196" vertical-offset="67" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/record/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="61" selection-start="2166" selection-end="2166" vertical-scroll-proportion="0.7058824" vertical-offset="792" max-vertical-offset="1215">
+            <state line="6" column="29" selection-start="246" selection-end="246" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1230">
               <folding />
             </state>
           </provider>
@@ -93,8 +102,9 @@
         <option value="$PROJECT_DIR$/css/navbar-fixed-top.css" />
         <option value="$PROJECT_DIR$/projects/index.html" />
         <option value="$PROJECT_DIR$/mooc/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/record/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/book/index.html" />
       </list>
     </option>
   </component>
@@ -192,6 +202,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejacky.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejacky.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -199,7 +223,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/dropplets" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -207,6 +231,9 @@
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -259,13 +286,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projects/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mooc/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="12" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -357,14 +377,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="6" selection-start="2224" selection-end="2224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="-2.5" vertical-offset="180" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/record/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="61" selection-start="2166" selection-end="2166" vertical-scroll-proportion="0.7058824" vertical-offset="792" max-vertical-offset="1215">
+        <state line="6" column="29" selection-start="246" selection-end="246" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="694" selection-end="694" vertical-scroll-proportion="0.6475196" vertical-offset="67" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
