@@ -5,7 +5,7 @@
     <ignored path="ejacky.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/data-struct.html" changelist="40e4839b-4fd1-4060-b70c-4efa6e7ae015" time="1401150138942" ignored="false" />
-    <file path="/index.html" changelist="40e4839b-4fd1-4060-b70c-4efa6e7ae015" time="1401160170039" ignored="false" />
+    <file path="/index.html" changelist="40e4839b-4fd1-4060-b70c-4efa6e7ae015" time="1401160232678" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+            <state line="55" column="17" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.8181818">
               <folding />
             </state>
           </provider>
@@ -72,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movie/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.5632411">
+            <state line="15" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="-10.178572">
               <folding />
             </state>
           </provider>
@@ -113,11 +113,11 @@
         <option value="$PROJECT_DIR$/css/navbar-fixed-top.css" />
         <option value="$PROJECT_DIR$/projects/index.html" />
         <option value="$PROJECT_DIR$/record/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/book/index.html" />
         <option value="$PROJECT_DIR$/mooc/data-struct.html" />
         <option value="$PROJECT_DIR$/mooc/index.html" />
         <option value="$PROJECT_DIR$/movie/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -413,13 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="9" selection-start="0" selection-end="747" vertical-scroll-proportion="0.0">
@@ -450,7 +443,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movie/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.5632411">
+        <state line="15" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="-10.178572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="17" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.8181818">
           <folding />
         </state>
       </provider>
