@@ -5,6 +5,7 @@
     <ignored path="ejacky.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/data-struct.html" changelist="40e4839b-4fd1-4060-b70c-4efa6e7ae015" time="1401150138942" ignored="false" />
+    <file path="/index.html" changelist="40e4839b-4fd1-4060-b70c-4efa6e7ae015" time="1401160170039" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/record/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="29" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+            <state line="20" column="7" selection-start="0" selection-end="2253" vertical-scroll-proportion="-10.178572">
               <folding />
             </state>
           </provider>
@@ -62,10 +63,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mooc/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="49" selection-start="818" selection-end="818" vertical-scroll-proportion="0.3992095">
+            <state line="23" column="49" selection-start="818" selection-end="818" vertical-scroll-proportion="-7.214286">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/movie/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.5632411">
               <folding />
             </state>
           </provider>
@@ -107,6 +117,7 @@
         <option value="$PROJECT_DIR$/book/index.html" />
         <option value="$PROJECT_DIR$/mooc/data-struct.html" />
         <option value="$PROJECT_DIR$/mooc/index.html" />
+        <option value="$PROJECT_DIR$/movie/index.html" />
       </list>
     </option>
   </component>
@@ -200,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mooc" />
+              <option name="myItemId" value="movie" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,13 +345,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mooc/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mooc/data-struct.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -416,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/record/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="9" selection-start="0" selection-end="747" vertical-scroll-proportion="0.0">
@@ -439,7 +436,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mooc/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="49" selection-start="818" selection-end="818" vertical-scroll-proportion="0.3992095">
+        <state line="23" column="49" selection-start="818" selection-end="818" vertical-scroll-proportion="-7.214286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="0" selection-end="2253" vertical-scroll-proportion="-10.178572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.5632411">
           <folding />
         </state>
       </provider>
