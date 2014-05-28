@@ -39,7 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/book/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="9" selection-start="0" selection-end="747" vertical-scroll-proportion="-9.25">
+            <state line="23" column="9" selection-start="0" selection-end="747" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/record/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="11" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.77470356">
+            <state line="77" column="21" selection-start="2277" selection-end="2277" vertical-scroll-proportion="0.5869565">
               <folding />
             </state>
           </provider>
@@ -260,13 +260,6 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
@@ -434,6 +427,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="9" selection-start="0" selection-end="747" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mooc/data-struct.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="28" selection-start="0" selection-end="892" vertical-scroll-proportion="0.0">
@@ -462,16 +462,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="9" selection-start="0" selection-end="747" vertical-scroll-proportion="-9.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/record/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="11" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.77470356">
+        <state line="77" column="21" selection-start="2277" selection-end="2277" vertical-scroll-proportion="0.5869565">
           <folding />
         </state>
       </provider>
