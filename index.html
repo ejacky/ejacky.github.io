@@ -61,8 +61,30 @@
 <div class="container">
     <p>Rsync 服务的使用</p>
     <ul>
-        <li>客户端</li>
-        <li>服务器端</li>
+        <li>
+        <h3客户端</h3>
+        <p>1 “推”操作 将本地文件推到服务器</p>
+        <p>rsync -vzrtopg --progress test root@192.168.31.31::rhelhome</p>
+        <p>2 “拉”操作 ,从服务器拉取数据到本地</p>
+        <p>rsync -avzP root@192.168.31.31::rhelhome test</p>
+        </li>
+        <li>
+        <h3>服务器端</h3>
+        <p>1 安装</p>
+        两种启动方式， 
+        一种通过启动xinet来启动 （实际操作时，未成功）
+        第二种rsync （操作成功）
+        2 配置文件
+        rsync.conf
+        rsync.secret
+        rsync.
+        
+        </li>
+        <li>
+            参考资料
+            http://www.cnblogs.com/itech/archive/2009/08/10/1542945.html
+            
+        </li>
     </ul>
 
     <p>做的项目</p>
