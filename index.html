@@ -59,7 +59,6 @@
 </div>
 
 <div class="container">
-    #test
     <p>Rsync 服务的使用</p>
     <ul>
         <li>
@@ -72,18 +71,21 @@
         <li>
         <h3>服务器端</h3>
         <p>1 安装</p>
-        两种启动方式， 
-        一种通过启动xinet来启动 （实际操作时，未成功）
-        第二种rsync （操作成功）
-        2 配置文件
-        rsync.conf
-        rsync.secret
-        rsync.
-        
+        <p>两种启动方式</p> 
+        <p>一种通过启动xinet来启动 （实际操作时，未成功）</p>
+        <p>第二种rsync --daemon --config=/etc/rsyncd.conf（操作成功）; 执行 ps -ef | grep rsync 存在， 需要 kill -9 pid; sudo rm /var/run/rsync.pid</p>
+        <p>2 配置文件</p>
+        <p>rsync.conf</p>
+        <p>rsync.secret</p>
         </li>
         <li>
-            参考资料
-            http://www.cnblogs.com/itech/archive/2009/08/10/1542945.html
+            参考资料:http://www.cnblogs.com/itech/archive/2009/08/10/1542945.html
+        </li>
+        <li>
+            <p>遇到问题：</p>
+            <p>服务器上的rsync服务未启动。 用ps命令，未发现进程， 也没有/var/run/rsyncd.pid文件； 重装后， 还是发现同样问题。 执行make test, 
+                出现 skip acls support, 发现服务器没有装acls。 估计是这个原因， 之后不再需要这台服务器， 于是没有深究。
+            </p>
             
         </li>
     </ul>
