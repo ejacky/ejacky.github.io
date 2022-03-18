@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Mar 2022 16:15:03 +0800</lastBuildDate><atom:link href="https://ejacky.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022 03 17</title>
+      <title>for-select 结构里的 break 关键字</title>
       <link>https://ejacky.github.io/post/2022-03-17/</link>
       <pubDate>Thu, 17 Mar 2022 16:15:03 +0800</pubDate>
       
       <guid>https://ejacky.github.io/post/2022-03-17/</guid>
-      <description>这是用来测试用的 package test import ( &amp;#34;fmt&amp;#34; &amp;#34;testing&amp;#34; &amp;#34;time&amp;#34; ) func TestBreak(t *testing.T) { tick := time.Tick(time.Second) for { select { case t := &amp;lt;-tick: fmt.Println(t) break } } fmt.Println(&amp;#34;end&amp;#34;) } </description>
+      <description>for-select package test import ( &amp;#34;fmt&amp;#34; &amp;#34;testing&amp;#34; &amp;#34;time&amp;#34; ) func TestBreak(t *testing.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Thu, 17 Mar 2022 14:00:45 +0800</pubDate>
       
       <guid>https://ejacky.github.io/post/title_of_the_post/</guid>
-      <description>  hugo 安装成功  hugo new post/xx.md // 创建文章 hugo server -D // 本地启动服务调试 hugo -D // 生成静态文件到 public/ 目录 问题  deploy 一致失败，报以下错误  Creating deployment with payload: { &amp;#34;artifact_url&amp;#34;: &amp;#34;https://pipelines.actions.githubusercontent.com/i7NDiJe6sckpMiQgKJEPbHK39ol64joVbrfBfWuElGyIPZzm9e/_apis/pipelines/1/runs/13/artifacts?artifactName=github-pages&amp;amp;%24expand=SignedContent&amp;#34;, &amp;#34;pages_build_version&amp;#34;: &amp;#34;26b486ee6204e9df792692b5a91daffc45880070&amp;#34;, &amp;#34;oidc_token&amp;#34;: &amp;#34;***&amp;#34; } Failed to create deployment for 26b486ee6204e9df792692b5a91daffc45880070. {&amp;#34;message&amp;#34;:&amp;#34;Deployment request failed for 26b486ee6204e9df792692b5a91daffc45880070 due to in progress deployment. Please cancel 8e52d20341103fba0f42d25d5c4e3a6a716b897b first or wait for it to complete.&amp;#34;,&amp;#34;documentation_url&amp;#34;:&amp;#34;https://docs.github.com/rest/reference/repos#create-a-github-pages-deployment&amp;#34;} Error: Error: Request failed with status code 400 Error: Error: Request failed with status code 400 Sending telemetry for run id 1997691410 </description>
+      <description>hugo 安装成功  hugo new post/xx.md // 创建文章 hugo server -D // 本地启动服务调试 hugo -D // 生成静态文件到 public/ 目录 问题  deploy 一致失败，报以下错误  Creating deployment with payload: { &amp;#34;artifact_url&amp;#34;: &amp;#34;https://pipelines.</description>
     </item>
     
   </channel>
