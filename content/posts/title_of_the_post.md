@@ -1,19 +1,23 @@
 ---
 title: "用 hugo 在 Github Pages 上发布博客"
 date: 2022-03-17T14:00:45+08:00
-draft: true
+draft: false
 ---
-# 
+
+#
+
 - hugo 安装成功
 
-````
+```
 hugo new post/xx.md // 创建文章
 hugo server -D // 本地启动服务调试
 hugo -D        // 生成静态文件到 public/ 目录
-````
+```
 
 # 问题
+
 - deploy 一致失败，报以下错误
+
 ```
 Creating deployment with payload:
 {
@@ -30,6 +34,4 @@ Sending telemetry for run id 1997691410
 
 - 日期显示问题
 - about 导航没出现
-- 首页每篇文章展示首段，可仿照 [月光博客](https://www.williamlong.info/ )
-
-
+- 首页每篇文章展示首段，可仿照 [月光博客](https://www.williamlong.info/)
