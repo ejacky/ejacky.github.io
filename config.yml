@@ -1,0 +1,21 @@
+baseURL: "https://ejacky.github.io"
+title: 反求诸己
+copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+theme: [PaperMod]
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 5
+        - name: About
+          url: about/
+          weight: 10
