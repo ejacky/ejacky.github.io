@@ -15,7 +15,13 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="3-prompt-模板"&gt;3. Prompt 模板&lt;/h2&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;请点击邮箱按钮跳转到邮箱列表用 chrome mcp
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>用 hugo 在 Github Pages 上发布博客</title><link>https://ejacky.github.io/posts/title_of_the_post/</link><pubDate>Thu, 17 Mar 2022 14:00:45 +0800</pubDate><guid>https://ejacky.github.io/posts/title_of_the_post/</guid><description>&lt;h1&gt;&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>关于</title><link>https://ejacky.github.io/about/</link><pubDate>Thu, 17 Mar 2022 14:00:45 +0800</pubDate><guid>https://ejacky.github.io/about/</guid><description>&lt;h2 id="关于我"&gt;关于我&lt;/h2&gt;
+&lt;p&gt;热爱技术，专注后端开发。&lt;/p&gt;
+&lt;h2 id="联系方式"&gt;联系方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href="https://github.com/ejacky"&gt;ejacky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;X (Twitter)&lt;/strong&gt;: &lt;a href="https://x.com/ejacky001"&gt;@ejacky001&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>用 hugo 在 Github Pages 上发布博客</title><link>https://ejacky.github.io/posts/title_of_the_post/</link><pubDate>Thu, 17 Mar 2022 14:00:45 +0800</pubDate><guid>https://ejacky.github.io/posts/title_of_the_post/</guid><description>&lt;h1&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;hugo 安装成功&lt;/li&gt;
 &lt;/ul&gt;
