@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>反求诸己</title><link>https://ejacky.github.io/</link><description>Recent content on 反求诸己</description><generator>Hugo</generator><language>en</language><copyright>PaperMod Contributors</copyright><lastBuildDate>Mon, 16 Mar 2026 18:31:24 +0800</lastBuildDate><atom:link href="https://ejacky.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Chrome DevTools MCP 远程调试</title><link>https://ejacky.github.io/posts/2026-03-16/</link><pubDate>Mon, 16 Mar 2026 18:31:24 +0800</pubDate><guid>https://ejacky.github.io/posts/2026-03-16/</guid><description>描述信息</description></item><item><title>用 hugo 在 Github Pages 上发布博客</title><link>https://ejacky.github.io/posts/title_of_the_post/</link><pubDate>Thu, 17 Mar 2022 14:00:45 +0800</pubDate><guid>https://ejacky.github.io/posts/title_of_the_post/</guid><description>&lt;h1&gt;&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>反求诸己</title><link>https://ejacky.github.io/</link><description>Recent content on 反求诸己</description><generator>Hugo</generator><language>en</language><copyright>PaperMod Contributors</copyright><lastBuildDate>Mon, 16 Mar 2026 18:31:24 +0800</lastBuildDate><atom:link href="https://ejacky.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Chrome DevTools MCP 远程调试</title><link>https://ejacky.github.io/posts/2026-03-16/</link><pubDate>Mon, 16 Mar 2026 18:31:24 +0800</pubDate><guid>https://ejacky.github.io/posts/2026-03-16/</guid><description>&lt;h2 id="1-启用-chrome-远程调试"&gt;1. 启用 Chrome 远程调试&lt;/h2&gt;
+&lt;p&gt;参考：&lt;a href="https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session?hl=zh-cn"&gt;Chrome DevTools MCP 官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 &lt;code&gt;chrome://inspect/#remote-debugging&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;确保 Chrome 版本 ≥ 144 并启用远程调试&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="2-在-cursor-中配置-mcp"&gt;2. 在 Cursor 中配置 MCP&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-json" data-lang="json"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;&amp;#34;mcpServers&amp;#34;&lt;/span&gt;: {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;&amp;#34;chrome-devtools&amp;#34;&lt;/span&gt;: {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;&amp;#34;command&amp;#34;&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;npx&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;&amp;#34;args&amp;#34;&lt;/span&gt;: [&lt;span style="color:#e6db74"&gt;&amp;#34;chrome-devtools-mcp@latest&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;--autoConnect&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;--channel=beta&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="3-prompt-模板"&gt;3. Prompt 模板&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;请点击邮箱按钮跳转到邮箱列表用 chrome mcp
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>用 hugo 在 Github Pages 上发布博客</title><link>https://ejacky.github.io/posts/title_of_the_post/</link><pubDate>Thu, 17 Mar 2022 14:00:45 +0800</pubDate><guid>https://ejacky.github.io/posts/title_of_the_post/</guid><description>&lt;h1&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;hugo 安装成功&lt;/li&gt;
 &lt;/ul&gt;
