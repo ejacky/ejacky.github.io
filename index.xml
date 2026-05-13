@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>反求诸己</title><link>https://ejacky.github.io/</link><description>Recent content on 反求诸己</description><generator>Hugo</generator><language>en</language><copyright>PaperMod Contributors</copyright><lastBuildDate>Mon, 16 Mar 2026 18:31:24 +0800</lastBuildDate><atom:link href="https://ejacky.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Chrome DevTools MCP 远程调试</title><link>https://ejacky.github.io/posts/2026-03-16/</link><pubDate>Mon, 16 Mar 2026 18:31:24 +0800</pubDate><guid>https://ejacky.github.io/posts/2026-03-16/</guid><description>&lt;h2 id="1-启用-chrome-远程调试"&gt;1. 启用 Chrome 远程调试&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>反求诸己</title><link>https://ejacky.github.io/</link><description>Recent content on 反求诸己</description><generator>Hugo</generator><language>en</language><copyright>PaperMod Contributors</copyright><lastBuildDate>Wed, 13 May 2026 18:00:45 +0800</lastBuildDate><atom:link href="https://ejacky.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://ejacky.github.io/zhihu-remark/</link><pubDate>Wed, 13 May 2026 18:00:45 +0800</pubDate><guid>https://ejacky.github.io/zhihu-remark/</guid><description>&lt;h1 id="privacy-policy"&gt;Privacy Policy&lt;/h1&gt;
+&lt;p&gt;Refute Assistant for Zhihu does not collect personally identifiable information.&lt;/p&gt;
+&lt;p&gt;The extension processes selected webpage content only for generating AI-assisted responses.&lt;/p&gt;
+&lt;p&gt;User content may be sent to third-party AI providers (such as OpenAI-compatible APIs) for response generation.&lt;/p&gt;
+&lt;p&gt;No user data is sold, permanently stored, or shared for advertising purposes.&lt;/p&gt;
+&lt;h2 id="data-usage"&gt;Data Usage&lt;/h2&gt;
+&lt;p&gt;The extension may access:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selected text content&lt;/li&gt;
+&lt;li&gt;Current webpage content&lt;/li&gt;
+&lt;li&gt;User input submitted to AI services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These data are used solely for:&lt;/p&gt;</description></item><item><title>使用 Chrome DevTools MCP 远程调试</title><link>https://ejacky.github.io/posts/2026-03-16/</link><pubDate>Mon, 16 Mar 2026 18:31:24 +0800</pubDate><guid>https://ejacky.github.io/posts/2026-03-16/</guid><description>&lt;h2 id="1-启用-chrome-远程调试"&gt;1. 启用 Chrome 远程调试&lt;/h2&gt;
 &lt;p&gt;参考：&lt;a href="https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session?hl=zh-cn"&gt;Chrome DevTools MCP 官方文档&lt;/a&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;打开 &lt;code&gt;chrome://inspect/#remote-debugging&lt;/code&gt;&lt;/li&gt;
