@@ -46,4 +46,4 @@ Data sent to these services is processed according to their respective privacy p
 
 If you have any questions about this Privacy Policy, please contact:
 
-your@email.com
+ejacky001@gmail.com
