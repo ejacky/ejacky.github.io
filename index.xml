@@ -59,4 +59,18 @@ Sending telemetry for run id 1997691410
 &lt;li&gt;日期显示问题&lt;/li&gt;
 &lt;li&gt;about 导航没出现&lt;/li&gt;
 &lt;li&gt;首页每篇文章展示首段，可仿照 &lt;a href="https://www.williamlong.info/"&gt;月光博客&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description></item><item><title/><link>https://ejacky.github.io/hn-reader/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ejacky.github.io/hn-reader/</guid><description>&lt;h1 id="privacy-policy"&gt;Privacy Policy&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Last updated:&lt;/strong&gt; May 27, 2026&lt;/p&gt;
+&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;HN Reader is a Chrome extension that enhances the Hacker News reading experience with AI-powered summaries and personalized content matching. This privacy policy explains how we handle your data.&lt;/p&gt;
+&lt;h2 id="what-we-dont-do"&gt;What We Don&amp;rsquo;t Do&lt;/h2&gt;
+&lt;p&gt;We do &lt;strong&gt;not&lt;/strong&gt; collect, store, or transmit any personal information to our servers. Period.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We do not track your browsing history.&lt;/li&gt;
+&lt;li&gt;We do not collect your Hacker News activity.&lt;/li&gt;
+&lt;li&gt;We do not sell or share any data with third parties.&lt;/li&gt;
+&lt;li&gt;We do not use cookies or analytics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="what-data-is-used-and-where-it-stays"&gt;What Data Is Used (and Where It Stays)&lt;/h2&gt;
+&lt;h3 id="1-browser-local-storage"&gt;1. Browser Local Storage&lt;/h3&gt;
+&lt;p&gt;The extension uses Chrome&amp;rsquo;s &lt;code&gt;storage&lt;/code&gt; API to save the following settings &lt;strong&gt;locally on your device only&lt;/strong&gt;:&lt;/p&gt;</description></item></channel></rss>
