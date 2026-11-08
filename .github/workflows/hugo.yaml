@@ -29,10 +29,27 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: ${{ env.HUGO_VERSION }}
+      # github.com/.../releases/download 当前会返回 504，改用 API 资产接口下载
+      # （gh release download 走 api.github.com + 签名存储地址，带重试）。
+      - name: Install Hugo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$HOME/.local/bin" "$RUNNER_TEMP/hugo"
+          for attempt in 1 2 3; do
+            if gh release download "v${HUGO_VERSION}" --repo gohugoio/hugo \
+              --pattern "hugo_${HUGO_VERSION}_linux-amd64.tar.gz" \
+              --dir "$RUNNER_TEMP/hugo" --clobber; then
+              break
+            fi
+            echo "download attempt ${attempt} failed, retrying in $((attempt * 10))s"
+            sleep $((attempt * 10))
+          done
+          tar -xzf "$RUNNER_TEMP/hugo/hugo_${HUGO_VERSION}_linux-amd64.tar.gz" \
+            -C "$HOME/.local/bin" hugo
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          "$HOME/.local/bin/hugo" version
 
       - name: Build
         run: hugo --minify
